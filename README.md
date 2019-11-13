@@ -14,13 +14,17 @@ The Sprites and Backgrounds folders contain the C data for the graphics, and the
 
 **Credits**
 
-The code is based on the GBDK Library. You will need it to compile the game. Find it here :
+The code is based on the GBDK Library. You will need it to compile the game. Find it here : 
 http://gbdk.sourceforge.net/
 
-GBTD ans GBMB tools by Harry Mulder :
+GBTD ans GBMB tools by Harry Mulder : 
 http://www.devrs.com/gb/hmgd/intro.html
 
 I'm really bad at anything audio-related. What little audio I have here is based on what I understood from : 
 https://gbdev.gg8.se/wiki/articles/Sound_tutorial
 
 All main coding and graphical aspects are done by me, Piers Bishop. 
+https://github.com/PiersBishop/VirtualPet_Prototype
+
+Link to my itch.io page : 
+https://piersbishop.itch.io/
